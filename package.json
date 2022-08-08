@@ -1,0 +1,23 @@
+{
+  "name": "atv_git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FThierryDev/exemplo_AAAA.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FThierryDev/exemplo_AAAA/issues"
+  },
+  "homepage": "https://github.com/FThierryDev/exemplo_AAAA#readme",
+  "dependencies": {
+    "jest": "^28.1.3"
+  }
+}
